@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+authors:
+  - family-names: Moore
+    given-names: Lance
+    orcid:
+title: "Neural Network Dose Prediction for Cervical Brachytherapy: Overcoming Data Scarcity for Applicator-Specific Models"
+version: 
+doi: 
+date-released: 
